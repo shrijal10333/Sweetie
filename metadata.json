@@ -1,0 +1,6 @@
+{
+  "name": "Cherry Lush Store",
+  "description": "Cute, feminine and luxury Indian boutique for women's fashion, jewellery, bags, accessories, beauty and lifestyle products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

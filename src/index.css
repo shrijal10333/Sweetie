@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --pink-soft: #FFF5F7;
+    --pink-accent: #F9A8D4;
+    --pink-deep: #DB2777;
+    --ink: #2D2D2D;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--pink-soft);
+    color: var(--ink);
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Playfair Display', serif;
+  }
+}
